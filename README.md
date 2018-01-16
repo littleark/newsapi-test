@@ -2,6 +2,8 @@
 
 *  clone repo, npm install
 
-*  npm start
+*  launch: *npm start*
 
-*  npm run build
+*  open on `http://localhost:9000`
+
+*  to create a build in dist/: npm run build
