@@ -4,7 +4,7 @@ const corsAnywhere = 'https://cors-anywhere.herokuapp.com/';
 const newsApiHeadlines =
 	'https://newsapi.org/v2/top-headlines?country=it&pageSize=100';
 const newsApiEverything =
-	'https://newsapi.org/v2/everything?language=it&pageSize=100';
+	'https://newsapi.org/v2/everything?language=it&pageSize=100&sortBy=publishedAt';
 
 const from = '2018-01-16T00:00:00';
 const to = '2018-01-16T023:59:59';
