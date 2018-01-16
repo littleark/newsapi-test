@@ -1,8 +1,10 @@
 # newsapi-test
 
-*  clone repo, npm install
+*  clone repo: `git clone git@github.com:littleark/newsapi-test.git`
 
-*  launch: *npm start*
+*  install modules: `npm install`
+
+*  launch: `npm start`
 
 *  open on `http://localhost:9000`
 
